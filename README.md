@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing software and learning valuable skills
 - 🌱 I’m currently working on creating an iOS application from scratch using SwiftUI!
 - 📫 You can reach me at: ilyakarakotov@gmail.com | ilyakarakotov.com
-- ⚡ Fun fact: I also love distance running, fitness, serving in ministry 😊
+- ⚡ Fun fact: Other than developing software, I also love distance running, working out, and reading
